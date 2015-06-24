@@ -3,7 +3,7 @@ int main()
 {
 {
   printf("Hello C");
-  printf("Dennis Ritchie");
+  printf("Inventor is Dennis Ritchie");
 }
 return 0;
 }
