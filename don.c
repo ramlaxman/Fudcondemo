@@ -1,4 +1,4 @@
-#include<stdin.h>
+#include<stdio.h>
 int main(void){
 
  puts("Ram");
