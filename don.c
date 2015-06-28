@@ -1,5 +1,6 @@
 #include<stdin.h>
 int main(void){
- printf("Ram");
+
+ puts("Ram");
  return 0;
 }
