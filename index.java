@@ -4,6 +4,6 @@ public class index
   {
    System.out.println("Hello Java");
    System.out.println("By James Ghosling");
-   int i;
+   System.out.println("Developed Java");
   }
 }
